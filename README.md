@@ -1,2 +1,3 @@
 # music_clay
 musicTestApp
+application of music, as time this project also is my practising for python encoding...

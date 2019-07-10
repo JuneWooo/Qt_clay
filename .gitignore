@@ -1,0 +1,4 @@
+# pycharm file of unused
+.idea
+*.iml
+__pycache__
